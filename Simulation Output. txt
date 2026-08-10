@@ -1,0 +1,6 @@
+Time=0  | Sel=00 | Parallel=0000 | Q=0000
+Time=10 | Sel=11 | Parallel=1010 | Q=1010
+Time=20 | Sel=00 | Parallel=1010 | Q=1010
+Time=30 | Sel=01 | Parallel=1010 | Q=1101
+Time=40 | Sel=10 | Parallel=1010 | Q=1010
+Time=50 | Sel=10 | Parallel=1010 | Q=0101
